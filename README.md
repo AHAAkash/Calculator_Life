@@ -1,1 +1,2 @@
 # Calculator_Life
+"""  -----This Simple Calculator program performs basic arithmetic operations such as addition, subtraction, multiplication, division, modulus, and power. It provides a menu-driven interface for users to select the desired operation and input the required operands. This project is an excellent example for learning basic C programming concepts and implementing simple mathematical operations."""
